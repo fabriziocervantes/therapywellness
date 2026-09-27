@@ -1,4 +1,4 @@
-# Therapy & Wellness Cancún — Landing
+# Relax Spa Cancún — Landing
 
 Landing bilingüe (ES/EN) con el concepto "Herbario de bienestar". Sitio estático: HTML + CSS + JS, sin dependencias ni compilación.
 

@@ -1,4 +1,4 @@
-/* Therapy & Wellness Cancún — language switch, WhatsApp links, therapy tabs,
+/* Relax Spa Cancún — language switch, WhatsApp links, therapy tabs,
    reviews carousel and organic motion. No dependencies. */
 (function () {
   'use strict';
